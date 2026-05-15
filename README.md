@@ -1,10 +1,10 @@
-# Điều Khoản Sử Dụng — Bot Trụ Sở ACE
+# Điều Khoản Sử Dụng — Bot Trụ Sở A.C.E
 
-Bot Trụ Sở ACE (“Bot”, “Hệ Thống” hoặc “Dịch Vụ”) được vận hành và quản lý bởi đội ngũ phát triển ACE. Khi truy cập hoặc sử dụng Bot, bạn đồng ý tuân thủ toàn bộ điều khoản bên dưới.
+Bot Trụ Sở A.C.E (“Bot”, “Hệ Thống” hoặc “Dịch Vụ”) được vận hành và quản lý bởi đội ngũ phát triển ACE. Khi truy cập hoặc sử dụng Bot, bạn đồng ý tuân thủ toàn bộ điều khoản bên dưới.
 Nếu bạn không đồng ý với bất kỳ nội dung nào trong điều khoản này, vui lòng ngừng sử dụng Bot.
 
 ## Quy Định Chung
-Khi sử dụng Bot Trụ Sở ACE, người dùng đồng ý rằng:
+Khi sử dụng Bot Trụ Sở A.C.E, người dùng đồng ý rằng:
 
 - Không vi phạm các Điều khoản này, Điều Khoản Dịch Vụ của Discord (https://discord.com/terms) cũng như Quy Tắc Cộng Đồng Discord (https://discord.com/guidelines) khi sử dụng Dịch vụ.
 - Không sử dụng Bot để thực hiện các hành vi vi phạm pháp luật, phá hoại hoặc gây ảnh hưởng tiêu cực đến cộng đồng.
@@ -22,8 +22,8 @@ Khi sử dụng Bot Trụ Sở ACE, người dùng đồng ý rằng:
 - Từ chối hỗ trợ trong các trường hợp lạm dụng hoặc cố tình phá hoại hệ thống.
 Mọi tài sản, vật phẩm và dữ liệu trong Bot đều là dữ liệu ảo phục vụ mục đích giải trí và roleplay, không có giá trị quy đổi ngoài đời thực.
 
-# Chính Sách Quyền Riêng Tư — Bot Trụ Sở ACE
-Chính sách này giải thích cách Bot Trụ Sở ACE thu thập, sử dụng và bảo vệ dữ liệu người dùng trong quá trình vận hành.
+# Chính Sách Quyền Riêng Tư — Bot Trụ Sở A.C.E
+Chính sách này giải thích cách Bot Trụ Sở A.C.E thu thập, sử dụng và bảo vệ dữ liệu người dùng trong quá trình vận hành.
 Khi tiếp tục sử dụng Bot, bạn đồng ý với các nội dung được nêu dưới đây.
 
 ### Dữ Liệu Được Thu Thập
@@ -59,13 +59,13 @@ Những thay đổi quan trọng sẽ được thông báo thông qua Bot hoặc
 
 -----------------------------------------------------------
 
-# Terms of Service — ACE Headquarters Bot
+# Terms of Service — A.C.E Headquarters Bot
 
-ACE Headquarters Bot (“Bot”, “System”, or “Service”) is operated and managed by the ACE development team. By accessing or using the Service, you agree to comply with the terms listed below.
+A.C.E Headquarters Bot (“Bot”, “System”, or “Service”) is operated and managed by the ACE development team. By accessing or using the Service, you agree to comply with the terms listed below.
 If you do not agree with any part of these Terms, please stop using the Bot immediately.
 
 ## General Rules
-By using the ACE Headquarters Bot, you agree that you will not:
+By using the A.C.E Headquarters Bot, you agree that you will not:
 
 - You will not violate these Terms, the Discord Terms of Service (https://discord.com/terms) nor the Discord Guidelines (https://discord.com/guidelines) while using the Service.
 - Use the Bot for illegal, harmful, or disruptive activities.
@@ -86,9 +86,9 @@ The ACE team reserves the right to:
 
 All currencies, items, and assets within the Bot are virtual and intended solely for entertainment and roleplay purposes. They hold no real-world monetary value.
 
-# Privacy Policy — ACE Headquarters Bot
+# Privacy Policy — A.C.E Headquarters Bot
 
-This Privacy Policy explains how ACE Headquarters Bot collects, uses, and protects user information while operating the Service.
+This Privacy Policy explains how A.C.E Headquarters Bot collects, uses, and protects user information while operating the Service.
 
 By continuing to use the Bot, you agree to the practices described below.
 
